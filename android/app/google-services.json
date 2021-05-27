@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269109224905",
+    "project_id": "reactnativefirebase-5bc2c",
+    "storage_bucket": "reactnativefirebase-5bc2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269109224905:android:0afc5b1b72c6d07c15b418",
+        "android_client_info": {
+          "package_name": "com.reactnativefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269109224905-cjo1kf3ee7ejfm9t3ht6vhcnes104ddo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnzqBET6BucYMW4ukdxSIGm0OKHF1V5h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269109224905-cjo1kf3ee7ejfm9t3ht6vhcnes104ddo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
